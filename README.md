@@ -156,7 +156,18 @@ The notebook will preprocess the dataset, train models, evaluate results, and sa
 
 ## Collaborators
 
-2201CS90, Medha Aggarwal 2201AI47, Ankit Singh 2201AI15, Harshit Tomar 2201AI16, Himani Yadav 2201AI45, Yash Kamdar 2201AI56, Sanskruti Kulkarni 2201CS18, Anthadupula Akshaya Tanvi 2201CS85, Deepanshi Verma 2201CS61, P. Sai Lasya 2201CS32, Isha Jaiswal 2201CS81, Ravina 2201CS82, Sanjana Mooli
+2201CS90 – Medha Aggarwal,
+2201AI47 – Ankit Singh,
+2201AI15 – Harshit Tomar,
+2201AI16 – Himani Yadav,
+2201AI45 – Yash Kamdar,
+2201AI56 – Sanskruti Kulkarni,
+2201CS18 – Anthadupula Akshaya Tanvi,
+2201CS85 – Deepanshi Verma,
+2201CS61 – P. Sai Lasya,
+2201CS32 – Isha Jaiswal,
+2201CS81 – Ravina,
+2201CS82 – Sanjana Mooli .
 
 This is a **closed academic project**.
 No external collaboration, pull requests, or code contributions are required.
